@@ -1,10 +1,10 @@
-# Python-Insights
+📊  Python-Insights
  Analisando Dados com Python Case - Cancelamento de Clientes
  
 Este projeto foi desenvolvido como um estudo de caso para análise de dados utilizando Python. O objetivo é investigar os motivos de cancelamento de clientes em uma empresa com mais de 800 mil registros, buscando fornecer insights que auxiliem na retenção e recuperação desses clientes.
 
 
- Etapas do Projeto
+✅ Etapas do Projeto
  
 Importação e Visualização dos Dados.
 
@@ -29,7 +29,7 @@ Visualização Gráfica.
 Criação de gráficos interativos com Plotly para compreender as variáveis mais relacionadas ao cancelamento.
 
 
-Bibliotecas Utilizadas
+📦 Bibliotecas Utilizadas
 
 pandas
 
